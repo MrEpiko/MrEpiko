@@ -1,7 +1,8 @@
 ### Hello there 👀
 
 My name is Stefan, also known as MrEpiko.
-I am mainly focused on developing Discord bots in Java & Python and making Minecraft Spigot plugins. However, that's not everything as I am also experienced in other programming languages such as C# and JavaScript as well as other technologies such as Android apps development.
+I'm a developer specializing in Discord bots (primarily in Java) and Spring Boot applications. I also have extensive experience with Minecraft plugin development using Spigot.
 
-If you have any questions, you can reach out to me through Discord: @mrepiko. 🌟
+Beyond that, I'm proficient in several other programming languages, including C# and JavaScript, and have worked on various Android app projects as well.
 
+If you have any questions, feel free to reach out on Discord: @mrepiko. 🌟
